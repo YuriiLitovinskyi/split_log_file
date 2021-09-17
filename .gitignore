@@ -1,0 +1,5 @@
+node_modules/
+service.out.log
+index-win.exe
+index-linux
+index-macos
